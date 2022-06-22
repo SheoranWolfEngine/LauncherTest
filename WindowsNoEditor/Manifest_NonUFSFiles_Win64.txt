@@ -1,6 +1,5 @@
 Engine/Binaries/Win64/UE4Game-Win64-Shipping.exe	2021-09-30T20:27:11.271Z
 Engine/Binaries/Win64/turbojpeg.dll	2021-09-30T20:26:06.656Z
-Engine/Extras/Redist/en-us/UE4PrereqSetup_x64.exe	2021-09-30T20:32:30.920Z
 Engine/Binaries/ThirdParty/Oculus/OVRPlugin/OVRPlugin/Win64/OVRPlugin.dll	2021-09-30T20:24:37.850Z
 Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll	2021-09-30T20:24:24.513Z
 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxFoundation_x64.dll	2021-09-30T20:24:57.387Z
@@ -18,4 +17,4 @@ Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2021-09-30T2
 Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	2021-09-30T20:24:35.417Z
 Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_5_17/Win64/openvr_api.dll	2021-09-30T20:24:38.219Z
 Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2021-09-30T20:25:10.743Z
-LauncherTest.exe	2022-06-22T13:02:02.921Z
+LauncherTest.exe	2022-06-22T13:51:54.641Z
