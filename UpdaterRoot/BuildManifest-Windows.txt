@@ -1,5 +1,5 @@
 $NUM_ENTRIES = 3
 $BUILD_ID = CDLauncher
-pakchunk0-WindowsNoEditor.pak    35639152   ver 1001    /Updater/pakchunk0-WindowsNoEditor.pak
-pakchunk1-WindowsNoEditor.pak    4531  ver 1002    /Updater/pakchunk1-WindowsNoEditor.pak
-pakchunk2-WindowsNoEditor.pak    4512  ver 1003    /Updater/pakchunk2-WindowsNoEditor.pak
+pakchunk0-WindowsNoEditor.pak    35639152   ver 1001    pakchunk0-WindowsNoEditor.pak
+pakchunk1-WindowsNoEditor.pak    4531  ver 1002    pakchunk1-WindowsNoEditor.pak
+pakchunk2-WindowsNoEditor.pak    4512  ver 1003    pakchunk2-WindowsNoEditor.pak
